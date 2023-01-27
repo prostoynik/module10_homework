@@ -1,0 +1,29 @@
+.btn{
+    height: 50px;
+    width: 250px;
+    padding: 0;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: green;
+    box-shadow: 0 5px 15px rgba(227, 184, 115, 0.2);
+    border-radius: 7px;
+    color: white;
+    font-style: normal;
+
+}
+
+.btn:active {
+    background: #cecece;
+    text-decoration: none;
+}
+
+.btn-text{
+    font-size: 18px;
+}
+
+
+
